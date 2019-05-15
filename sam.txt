@@ -7,7 +7,10 @@ This is a simple website project.
 This is example to show different parts of git repository.
 
 # Purpose
+As stated above, the main purpose is to provide simple examples.
 
 # Deployment
+
+This is a simple web project.
 
 # How to Contribute
